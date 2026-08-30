@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price,Region,Salesperson
+2026-01-05,Laptop,Electronics,2,55000,South,Ravi
+2026-01-08,Mouse,Accessories,5,500,South,Anita
+2026-01-12,Keyboard,Accessories,,1200,North,Rahul
+2026-01-15,Laptop,Electronics,1,55000,South,Ravi
+2026-01-15,Laptop,Electronics,1,55000,South,Ravi
+2026-02-02,Monitor,Electronics,3,15000,West,Priya
+2026-02-05,Mouse,Accessories,4,,East,Anita
+2026-02-10,Keyboard,Accessories,6,1200,North,Rahul
+2026-02-12,Monitor,Electronics,2,15000,West,Priya
+2026-02-15,Laptop,electronics,2,55000,south,Ravi
